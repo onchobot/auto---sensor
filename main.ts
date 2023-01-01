@@ -1,7 +1,7 @@
 let sonar = 0
 basic.showIcon(IconNames.Heart)
 basic.forever(function () {
-    if (input.lightLevel() < 128) {
+    if (input.lightLevel() < 30) {
         cuteBot.colorLight(cuteBot.RGBLights.ALL, 0x00ff00)
     } else {
         cuteBot.colorLight(cuteBot.RGBLights.ALL, 0xff0000)
