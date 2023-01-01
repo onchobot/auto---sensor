@@ -1,5 +1,5 @@
 
-> Otevřít tuto stránku v aplikaci [https://onchobot.github.io/auto---sensor/](https://onchobot.github.io/auto---sensor/)
+> Otevřít tuto stránku v aplikaci [https://onchobot.github.io/car-sensor/](https://onchobot.github.io/car-sensor/)
 
 ## Použít jako rozšíření
 
@@ -10,7 +10,7 @@ Toto úložiště lze přidat jako **rozšíření** v aplikaci MakeCode.
 * klikněte na možnost **Rozšíření** v nabídce s ozubeným kolem
 * vyhledat **https://github.com/onchobot/auto---sensor** a importovat
 
-## Upravit tento projekt ![Odznak stavu sestavení](https://github.com/onchobot/auto---sensor/workflows/MakeCode/badge.svg)
+## Upravit tento projekt ![Odznak stavu sestavení](https://github.com/onchobot/car-sensor/workflows/MakeCode/badge.svg)
 
 Slouží k úpravě tohoto úložiště v aplikaci MakeCode.
 
@@ -23,7 +23,7 @@ Slouží k úpravě tohoto úložiště v aplikaci MakeCode.
 Tento obrázek znázorňuje kód z Bloků od posledního potvrzení v hlavní verzi.
 Tento obrázek se může aktualizovat až za několik minut.
 
-![Vykreslený náhled bloků](https://github.com/onchobot/auto---sensor/raw/master/.github/makecode/blocks.png)
+![Vykreslený náhled bloků](https://github.com/onchobot/car-sensor/raw/master/.github/makecode/blocks.png)
 
 #### Metadata (slouží k vyhledávání, vykreslování)
 
