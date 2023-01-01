@@ -8,7 +8,7 @@ Toto úložiště lze přidat jako **rozšíření** v aplikaci MakeCode.
 * otevřít [https://makecode.microbit.org/](https://makecode.microbit.org/)
 * klikněte na možnost **Nový projekt**
 * klikněte na možnost **Rozšíření** v nabídce s ozubeným kolem
-* vyhledat **https://github.com/onchobot/auto---sensor** a importovat
+* vyhledat **https://github.com/onchobot/car-sensor** a importovat
 
 ## Upravit tento projekt ![Odznak stavu sestavení](https://github.com/onchobot/car-sensor/workflows/MakeCode/badge.svg)
 
@@ -16,7 +16,7 @@ Slouží k úpravě tohoto úložiště v aplikaci MakeCode.
 
 * otevřít [https://makecode.microbit.org/](https://makecode.microbit.org/)
 * klikněte na možnost **Import** a poté na **Import adresy URL**
-* vložte **https://github.com/onchobot/auto---sensor** a klikněte na možnost import
+* vložte **https://github.com/onchobot/car-sensor** a klikněte na možnost import
 
 ## Náhled bloků
 
